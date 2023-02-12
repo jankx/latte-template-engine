@@ -1,0 +1,19 @@
+{
+    "name": "jankx/latte-template-engine",
+    "description": "The Latte template engine for WordPress use Jankx framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\Latte\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
